@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Ikoba
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayamegu&layout=compact&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ayamegu&theme=dark&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoba0911&layout=compact&theme=dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ikoba0911&theme=dark&show_icons=true" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,7 +14,7 @@
 
 
 <!--
-**Ayamegu/Ayamegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ikoba0911/ikoba0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
